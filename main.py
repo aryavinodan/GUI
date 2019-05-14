@@ -1,15 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-"""
-ZetCode PyQt4 tutorial 
-
-This is a Tetris game clone.
-
-author: Jan Bodnar
-website: zetcode.com 
-last edited: October 2013
-"""
 
 import sys, random
 from PyQt4 import QtCore, QtGui
